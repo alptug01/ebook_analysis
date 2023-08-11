@@ -11,9 +11,12 @@ Features:
 
 Obtain word frequency for a given book.
 
+
 Compare word similarities and differences between two books.
 
+
 Flexibility for users to determine the number of words displayed.
+
 
 Technical Details:
 
