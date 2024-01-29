@@ -54,3 +54,13 @@ Experiments:
 
 Comparison experiments conducted on books like 'Non-Programmer's Tutorial for Python 2.6' and 'Non-Programmer's Tutorial for Python 3' indicated a difference from the results of Online Word Counter, attributed to varying stopword lists.
 
+
+![image](https://github.com/alptug01/ebook_analysis/assets/102905961/da190f23-1611-4be8-b565-36807655922c)
+
+![image](https://github.com/alptug01/ebook_analysis/assets/102905961/6b83fc43-82b6-4851-ab22-1720a2e77c0a)
+
+![image](https://github.com/alptug01/ebook_analysis/assets/102905961/d40b9be6-e667-4e9c-9e80-3d551b08956c)
+
+
+
+
